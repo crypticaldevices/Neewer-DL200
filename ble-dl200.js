@@ -38,7 +38,7 @@ async function connect() {
 			filters: [
 				// { services: [serviceUuid] },
 				// { services: [generalCharacteristic] },
-				{ name: `NEEWER-DL200`}
+				{ name: `NEEWER-DL300`}
 			]
 				// acceptAllDevices: true
 				,optionalServices: [serviceUuid,generalCharacteristic,writingCharacteristic,readingCharacteristic]
